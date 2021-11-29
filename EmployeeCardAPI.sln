@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeCardAPI", "EmployeeCardAPI\EmployeeCardAPI.csproj", "{52203153-7408-4840-9AA1-1DDCF6B1D291}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeCard.Data", "EmployeeCard.Data\EmployeeCard.Data.csproj", "{5B797569-6FD7-483F-A13E-75F11E9D3E6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52203153-7408-4840-9AA1-1DDCF6B1D291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52203153-7408-4840-9AA1-1DDCF6B1D291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52203153-7408-4840-9AA1-1DDCF6B1D291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52203153-7408-4840-9AA1-1DDCF6B1D291}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B797569-6FD7-483F-A13E-75F11E9D3E6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B797569-6FD7-483F-A13E-75F11E9D3E6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B797569-6FD7-483F-A13E-75F11E9D3E6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B797569-6FD7-483F-A13E-75F11E9D3E6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {758E5855-8936-4A7F-A048-FABB7C5D4882}
+	EndGlobalSection
+EndGlobal
